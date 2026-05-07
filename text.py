@@ -1,0 +1,38 @@
+ES = {"Menu" : '1. Jugar\n2. Ajustes\n3. Salir',
+      "adv1" : "Las opciones solo son números!",
+      "score" : "puntos:",
+      "win" : "Ganaste!!! XD",
+      "lose" : "Perdiste!!! XD",
+      "config" : "Acá podras ajustar el tamaño del mapa \ny la cantidad de puntos en el mapa \n1. tamaño del mapa\n2. cantidad de puntos\n3. idioma del juego",
+      "configMap1" :  "Digita el alto del mapa, menor a 8 y mayor a 4",
+      "currentValues" : "valores actuales:",
+      "valueError" : "Digite un número",
+      "configMap2" : "Digita al ancho del mapa, menor a 15 y mayor a 11",
+      "successConfigMap" : "Cambios realizados!",
+      "configScore" : "Digita la cantidad de puntos",
+      "configScoreError" : "Cantidad de puntos no valida! debe ser menor a: ",
+      "successConfigScore" : "cantidad de puntos fijada en: ",
+      "NoValidOption" : "Opción no valida, :(",
+      "Exit" : "Terminando ejecución...",
+      "LangChange" : "Cambiando idioma del juego..."
+      }
+
+EN = {
+    "Menu" : '1. Play\n2. Settings\n3. Exit',
+    "adv1" : "Options must be numbers only!",
+    "score" : "points:",
+    "win" : "You Win!!! XD",
+    "lose" : "You Lose!!! XD",
+    "config" : "Here you can adjust the map size \nand the number of points on the map \n1. map size\n2. number of points\n3. game language",
+    "configMap1" : "Enter the map height, less than 8 and greater than 4",
+    "currentValues" : "current values:",
+    "valueError" : "Please enter a number",
+    "configMap2" : "Enter the map width, less than 15 and greater than 11",
+    "successConfigMap" : "Changes applied!",
+    "configScore" : "Enter the number of points",
+    "configScoreError" : "Invalid number of points! It must be less than: ",
+    "successConfigScore" : "number of points set to: ",
+    "NoValidOption" : "Invalid option, :(",
+    "Exit" : "Ending execution...",
+    "LangChange" : "Changing game language..."
+}

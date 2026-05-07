@@ -1,4 +1,4 @@
-Snake Console Game
+Cosmic Drivers V1.0
 This is a console-based game made with Python using various modules. The player is represented using ASCII characters. Points are represented by the letter O, and enemies by the letter X.
 
 The map is an array created using NumPy, where all elements (player, points, enemies) are placed randomly. Both the size of the map and the number of points spawned on it can be customized.
